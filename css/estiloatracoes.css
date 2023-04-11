@@ -183,6 +183,10 @@ menu
 ---------------------------------------------
 */
 
+.menu-item-carousel{
+  margin: 80px 0 80px 0;
+}
+
 #menu {
     margin-top: 120px;
     background-color: #fffafa;
